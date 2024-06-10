@@ -34,7 +34,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=AlanMDevyo&bg_color=30,F0ABBD,D1B3CF,AFBFE0&title_color=fff&text_color=fff" style="width: 445px; height: auto;" alt="99's Github Stats">
   </a>
   <a href="https://github.com/AlanMDevyo">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAlanMDevyo&layout=compact&langs_count=7&theme=default&bg_color=30,F0ABBD,D1B3CF,AFBFE0&title_color=fff&text_color=fff" style="width: 350px; height: auto;" alt="Linguagens">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlanMDevyo&layout=compact&langs_count=7&theme=default&bg_color=30,F0ABBD,D1B3CF,AFBFE0&title_color=fff&text_color=fff" style="width: 350px; height: auto;" alt="Linguagens">
   </a>
 </div>
 
